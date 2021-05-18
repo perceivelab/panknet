@@ -54,7 +54,7 @@ image_crop = 128
 output_folder = 'output'
 subfolder = os.path.join(image_type,model_name)
 timestamp_str = datetime.fromtimestamp(time.time()).strftime('%Y-%m-%d_%H-%M-%S')
-train_name = timestamp_str+f'_Concetto_FOLD{num_fold}_noPretrainedCT'
+train_name = timestamp_str+f'_FOLD{num_fold}_noPretrainedCT'
 
 include_background_loss = True
 
