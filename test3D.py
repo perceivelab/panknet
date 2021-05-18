@@ -47,7 +47,7 @@ include_background = True
 metric_names = ('sensitivity', 'specificity', 'accuracy', 'precision', 'f1 score', 'false negative rate', 'false positive rate')
 
 testName = f'test_{include_background}'
-train_name = os.path.join(image_type, model_name,'2021-03-02_08-48-31_Torino3_FOLD3')
+train_name = os.path.join(image_type, model_name,'2021-03-02_08-48-31_FOLD3')
 test_path = os.path.join('output',train_name, testName)
 prediction_path = os.path.join(test_path, 'seg_mask')
 weight_name = f'weight_bestDice{include_background}.pt'
