@@ -3,7 +3,7 @@
 # Hierarchical 3D Feature Learning for Pancreas Segmentation
 Federica Proietto Salanitri, Giovanni Bellitto, Ismail Irmakci, Simone Palazzo, Ulas Bagci, Concetto Spampinato
 
-[![Paper](http://img.shields.io/badge/paper-arxiv.2109.01667-B31B1B.svg)](https://arxiv.org/abs/2109.01667)
+[![Paper](http://img.shields.io/badge/paper-arxiv.2109.01667v1-B31B1B.svg)](https://arxiv.org/abs/2109.01667)
 [![Conference](http://img.shields.io/badge/MLMI-2021-4b44ce.svg)](https://link.springer.com/chapter/10.1007%2F978-3-030-87589-3_25)
 </div>
 
